@@ -1,0 +1,14 @@
+C:\Users\Muhammed\source\repos\MarketYonetimSistemi\MarketYonetimSistemi\bin\Debug\net8.0\MarketYonetimSistemi.exe
+C:\Users\Muhammed\source\repos\MarketYonetimSistemi\MarketYonetimSistemi\bin\Debug\net8.0\MarketYonetimSistemi.deps.json
+C:\Users\Muhammed\source\repos\MarketYonetimSistemi\MarketYonetimSistemi\bin\Debug\net8.0\MarketYonetimSistemi.runtimeconfig.json
+C:\Users\Muhammed\source\repos\MarketYonetimSistemi\MarketYonetimSistemi\bin\Debug\net8.0\MarketYonetimSistemi.dll
+C:\Users\Muhammed\source\repos\MarketYonetimSistemi\MarketYonetimSistemi\bin\Debug\net8.0\MarketYonetimSistemi.pdb
+C:\Users\Muhammed\source\repos\MarketYonetimSistemi\MarketYonetimSistemi\obj\Debug\net8.0\MarketYonetimSistemi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammed\source\repos\MarketYonetimSistemi\MarketYonetimSistemi\obj\Debug\net8.0\MarketYonetimSistemi.AssemblyInfoInputs.cache
+C:\Users\Muhammed\source\repos\MarketYonetimSistemi\MarketYonetimSistemi\obj\Debug\net8.0\MarketYonetimSistemi.AssemblyInfo.cs
+C:\Users\Muhammed\source\repos\MarketYonetimSistemi\MarketYonetimSistemi\obj\Debug\net8.0\MarketYonetimSistemi.csproj.CoreCompileInputs.cache
+C:\Users\Muhammed\source\repos\MarketYonetimSistemi\MarketYonetimSistemi\obj\Debug\net8.0\MarketYonetimSistemi.dll
+C:\Users\Muhammed\source\repos\MarketYonetimSistemi\MarketYonetimSistemi\obj\Debug\net8.0\refint\MarketYonetimSistemi.dll
+C:\Users\Muhammed\source\repos\MarketYonetimSistemi\MarketYonetimSistemi\obj\Debug\net8.0\MarketYonetimSistemi.pdb
+C:\Users\Muhammed\source\repos\MarketYonetimSistemi\MarketYonetimSistemi\obj\Debug\net8.0\MarketYonetimSistemi.genruntimeconfig.cache
+C:\Users\Muhammed\source\repos\MarketYonetimSistemi\MarketYonetimSistemi\obj\Debug\net8.0\ref\MarketYonetimSistemi.dll
